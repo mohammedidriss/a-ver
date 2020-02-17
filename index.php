@@ -7,7 +7,7 @@ header("Expires: 0"); // Proxies.
 <img src="a-abtesting.png">
 <div>
 <?php 
- echo "My Test New midriss Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
+ echo "My Demo Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
 </div>
 <div>
